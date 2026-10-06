@@ -11,7 +11,11 @@
   },
   "dependencies": {
     "react": "^19.2.8",
-    "react-dom": "^19.2.8"
+    "react-dom": "^19.2.8",
+    "vega": "^6.4.0",
+    "vega-lite": "^6.4.3",
+    "vega-lite-api": "^6.0.0",
+    "vega-tooltip": "^1.1.0"
   },
   "devDependencies": {
     "@types/node": "^24.13.3",
