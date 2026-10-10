@@ -3,6 +3,7 @@ import heroImg from "./assets/hero.png";
 import reactLogo from "./assets/react.svg";
 import viteLogo from "./assets/vite.svg";
 import Socials from "./Socials.tsx";
+import BarChart from "./BarChart.tsx";
 import "./App.css";
 
 function App() {
@@ -56,6 +57,7 @@ function App() {
           </ul>
         </div>
         <Socials />
+        <BarChart />
       </section>
 
       <div className="ticks"></div>
